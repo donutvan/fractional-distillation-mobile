@@ -1,0 +1,21 @@
+Tray Number: 11
+Feed Postion: 1
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 11
+Feed Postion: 1
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 11
+Feed Postion: 1
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+

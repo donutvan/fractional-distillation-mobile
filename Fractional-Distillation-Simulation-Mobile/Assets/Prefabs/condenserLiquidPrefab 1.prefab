@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6661918959960175871
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3614200823771880014}
+  - component: {fileID: 1450570888464178111}
+  m_Layer: 0
+  m_Name: condenserLiquidPrefab 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3614200823771880014
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6661918959960175871}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1450570888464178111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6661918959960175871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38179e5a6325d46468dc5588efb1cbb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  collectorLiquidPrefab: {fileID: 1484654222297398251, guid: f2a11323bd9c03442bc57cf8c274b449, type: 3}
+  waterSurfacePrefab: {fileID: 469299167433698706, guid: b476cbd16f060c6408d326dbce8dd973, type: 3}
+  condenserLiquid1Prefab: {fileID: 7143381125666594748, guid: 9f3e8cfbdab939b47a82691e0fcc2ce9, type: 3}
+  condenserVapour1aPrefab: {fileID: 9095468638273055986, guid: 189939b9a45744b4c838055dd7d0c230, type: 3}
+  condenserVapour1bPrefab: {fileID: 6131467523155060244, guid: 03d497f7aca53d64294c6b7f4295da71, type: 3}
+  condenserVapour1cPrefab: {fileID: 1750559637395781191, guid: d2213e99b1fed984e95010d73d7f1e53, type: 3}
+  condenserChamberVapour1Prefab: {fileID: 452741627205398913, guid: 0db70cc157c9ac744b1e056bc3a4c005, type: 3}
+  condenserChamberVapour2Prefab: {fileID: 3403944187576280006, guid: 13265ccce62a16148ae91603067f329e, type: 3}
+  condenserChamberVapour3Prefab: {fileID: 8623776532173258787, guid: 6c08f8ad4bd269a4cb5b4d56cadf5d73, type: 3}
+  condenseSound: {fileID: 7955901888269562171, guid: d67d33924d3106f4d95ebe6b55a10b86, type: 3}
+  waterSound: {fileID: 3673633722325627898, guid: 2133a49124568da488a00dc90a0b707c, type: 3}
+  SCALE: 1
+  liqCon: 0

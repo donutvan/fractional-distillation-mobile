@@ -1,0 +1,861 @@
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 50
+Boil-up Ratio: 7.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 75
+Boil-up Ratio: 7.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 1
+Feed Flow Rate: 100
+Boil-up Ratio: 7.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 2
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 3
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 4
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 5
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 50
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 75
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 6
+Feed Flow Rate: 100
+Boil-up Ratio: 5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 7
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 7
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 7
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 7
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 7
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 7
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 7.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 8
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 8
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 8
+Feed Flow Rate: 50
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 8
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 8
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 8
+Feed Flow Rate: 75
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 8
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 2.5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 8
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 5
+Solution found: False
+
+Tray Number: 17
+Feed Postion: 8
+Feed Flow Rate: 100
+Boil-up Ratio: 2.5
+Reflux Ratio: 10
+Solution found: False
+

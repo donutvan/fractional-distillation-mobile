@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 981c255fe91331b4e95d90844e3496f8
+  - enabled: 1
+    path: Assets/Scenes/SliderOptionScene.unity
+    guid: 2f33767656b843843b148b546ef4fa5e
+  - enabled: 1
+    path: Assets/Scenes/SimulationSceneMobile.unity
+    guid: b1298273deac86842933832512864267
+  - enabled: 0
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 9e96580922447d54bac8c37b556b28f4
+  - enabled: 0
+    path: Assets/Scenes/SampleTestScene.unity
+    guid: 55771c6f7d1a22f4c900bda7f8b2c039
+  - enabled: 1
+    path: Assets/Scenes/ARTutorialScene.unity
+    guid: 84c6c474ddef9ec40b0d6c718adac982
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 328fd3ea10b27b3418694efea7ea4243, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e952edb684758ce45b7e8611daf30d29, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b44fb72a685933c499f8af3ae4a9cf5b, type: 2}

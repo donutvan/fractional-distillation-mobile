@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 60d2bce3e156203449494e1ee0c7c061
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vapourPrefab: {fileID: 3967998796988593450, guid: 51d520242f6a9644e8c37fc57d8d6c1a, type: 3}
+  - mainCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
