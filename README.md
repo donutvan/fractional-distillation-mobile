@@ -1,5 +1,5 @@
 # Fractional Distillation Simulation (Mobile)
-[[Paper](https://www.sciencedirect.com/science/article/pii/S0098135422004197?via%3Dihub)][[Video]()]
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0098135422004197?via%3Dihub)][[Video](https://youtu.be/-BWnAd0ZINA)]
 
 ![preview](./media/fractional_distilllation_mobile_GIF.gif)
 
