@@ -1,6 +1,7 @@
 # Fractional Distillation Simulation (Mobile)
-
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0098135422004197?via%3Dihub)][[Video]()]
+
+![preview](./media/fractional_distilllation_mobile_GIF.gif)
 
 Find the VR version of this project here: https://github.com/mynametia/fractional-distillation-VR
 
