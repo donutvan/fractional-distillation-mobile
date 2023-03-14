@@ -3,7 +3,7 @@
 
 ![preview](./media/fractional_distilllation_mobile_GIF.gif)
 
-Find the VR version of this project here: https://github.com/mynametia/fractional-distillation-VR
+Find the VR version of this project [here (https://github.com/mynametia/fractional-distillation-VR)].
 
 This repository contains the Unity project code of an educational fractional distillation simulation mobile app. 
 
