@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
@@ -7,7 +7,7 @@ public class ARCursor : MonoBehaviour
 {
     public GameObject cursorChildObject, objectToPlace, spriteCursor;
     private GameObject columnInstance;
-    private Color cursorColor = new Color(1, 1, 1, 0.6f);
+    private Color cursorColor = new(1, 1, 1, 0.6f);
 
     public ARRaycastManager raycastManager;
 

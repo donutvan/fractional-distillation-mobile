@@ -1,10 +1,10 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class chamberBounce : MonoBehaviour
 {
-    public Vector3 forceMagnitude = new Vector3(0,0,0);
+    public Vector3 forceMagnitude = new(0, 0, 0);
     public float forceScaler = 50f;
     //public float minForce = 0.03f, maxForce = 0.07f;
     // Start is called before the first frame update
