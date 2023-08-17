@@ -1,11 +1,11 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class SwiperAttempt : MonoBehaviour
 {
-    private Touch touch = new Touch();
-    private Touch touch2 = new Touch();
+    private Touch touch = new();
+    private Touch touch2 = new();
 
     public Camera cam;
     

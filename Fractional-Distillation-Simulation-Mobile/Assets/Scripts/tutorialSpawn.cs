@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -17,7 +17,7 @@ public class tutorialSpawn : MonoBehaviour
 
     private bool zoom = false;
 
-    private Touch touch = new Touch();
+    private Touch touch = new();
     // Start is called before the first frame update
     void Start()
     {

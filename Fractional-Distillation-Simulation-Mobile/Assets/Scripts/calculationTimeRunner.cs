@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 using UnityEngine;
@@ -73,7 +73,7 @@ public class calculationTimeRunner : MonoBehaviour
     {
         
         //Write some text to the test.txt file
-        StreamWriter writer = new StreamWriter(path, true);
+        StreamWriter writer = new(path, true);
         writer.WriteLine(outputLine);
         writer.Close();
         //Re-import the file to update the reference in the editor
@@ -104,7 +104,7 @@ public class calculationTimeRunner : MonoBehaviour
                         if (noSoln) 
                         {
                             
-                            StreamWriter writer = new StreamWriter(noSolnPath, true);
+                            StreamWriter writer = new(noSolnPath, true);
                             writer.WriteLine("Tray Number: " + trayNumber);
                             writer.WriteLine("Feed Postion: " + feedPosition);
                             writer.WriteLine("Feed Flow Rate: " + feedR);
@@ -154,7 +154,7 @@ public class calculationTimeRunner : MonoBehaviour
                         writer.Close();*/
 
                         if (calculating) {
-                            StreamWriter writerNoSoln = new StreamWriter(noSolnPath, true);
+                            StreamWriter writerNoSoln = new(noSolnPath, true);
                             writerNoSoln.WriteLine("Tray Number: " + trayNumber);
                             writerNoSoln.WriteLine("Feed Postion: " + feedPosition);
                             writerNoSoln.WriteLine("Feed Flow Rate: " + feedR);
@@ -183,7 +183,7 @@ public class calculationTimeRunner : MonoBehaviour
 
     float calculatorTimeMeasure(int iterations)
     {
-        Stopwatch stopWatch = new Stopwatch();
+        Stopwatch stopWatch = new();
         //TimeSpan ts;
         float totalTimeMilliseconds = 0;
         for (int i = 0; i < iterations; i++)

@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -90,10 +90,10 @@ public class condenser_animation1 : MonoBehaviour
         
         //og scale is 0.1 in y direction
         float totalTime = 1.80f;
-        Vector3 scaleChange = new Vector3(0, (1 - collectorLiquidInstance.transform.localScale.y) / 90, 0);
+        Vector3 scaleChange = new(0, (1 - collectorLiquidInstance.transform.localScale.y) / 90, 0);
         //float yIncrease = (1-objectScale.y)/90;
         float period = totalTime / 90;
-        Vector3 posChange = new Vector3(0, 2.8f * SCALE, 0);
+        Vector3 posChange = new(0, 2.8f * SCALE, 0);
         while (totalTime > 0)
         {
             //objectScale.y += yIncrease;

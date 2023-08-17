@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -15,7 +15,7 @@ public class spawnAnimationValve : MonoBehaviour
     private bool reboilerAnimationOk = false, condenserAnimationOk = false,
         feedAnimationStarted = false, reboilerAnimationStarted = false, condenserAnimationStarted = false;
 
-    private Touch touch = new Touch();
+    private Touch touch = new();
 
     public string feedValve, reboilerValve, condenserValve;
     public Material columnMat, glowingMat;

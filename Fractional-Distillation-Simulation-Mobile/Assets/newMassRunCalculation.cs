@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -191,7 +191,7 @@ public class newMassRunCalculation : MonoBehaviour
             {
                 Debug.Log("No solution found");
                 
-                StreamWriter writerNoSoln = new StreamWriter(noSolnPath, true);
+                StreamWriter writerNoSoln = new(noSolnPath, true);
                 writerNoSoln.WriteLine("Tray Number: " + trayNumber);
                 writerNoSoln.WriteLine("Feed Postion: " + feedPosition);
                 writerNoSoln.WriteLine("Feed Flow Rate: " + feedR);
