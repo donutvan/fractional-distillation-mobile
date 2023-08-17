@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -157,7 +157,7 @@ public class calculatorsAttempt2 : MonoBehaviour
                 YvariableList.Clear();
             }
             offset = step * 2;
-            step = step / 100;
+            step /= 100;
             stepNum = offset / step;
             k--;
         }

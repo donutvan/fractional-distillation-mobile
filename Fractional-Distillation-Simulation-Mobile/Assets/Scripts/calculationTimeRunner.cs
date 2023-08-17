@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 using UnityEngine;
@@ -237,7 +237,7 @@ public class calculationTimeRunner : MonoBehaviour
             */
             Xd = successXd - (2 * step);
             range = step * 4;
-            step = step / (calculatorNumber * 2);
+            step /= (calculatorNumber * 2);
 
             UnityEngine.Debug.Log("iterations left: " + maxIterations);
             maxIterations--;

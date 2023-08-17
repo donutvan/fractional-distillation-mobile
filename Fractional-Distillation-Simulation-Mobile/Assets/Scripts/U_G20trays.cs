@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -82,7 +82,7 @@ public class U_G20trays : MonoBehaviour
             }
             else
             {
-                xD = xD + 0.0001f;
+                xD += 0.0001f;
                 caculator();
                 if (xD >= 0.9)
                 {

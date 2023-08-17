@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -189,7 +189,7 @@ public class calculationNew : MonoBehaviour
             */
             Xd = successXd - (2 * step);
             range = step * 4;
-            step = step / (calculatorNumber * 2);
+            step /= (calculatorNumber * 2);
             
             Debug.Log("iterations left: " + maxIterations);
             maxIterations--;
